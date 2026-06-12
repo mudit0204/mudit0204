@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1584" height="396" alt="Mudit Thakre Banner" src="https://github.com/user-attachments/assets/48e07f66-ee4a-4fe1-8072-a9c89d6b3009" />
+<img width="1584" height="396" alt="Mudit Thakre Banner" src="YOUR_IMAGE_LINK_HERE" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mudit0204&label=Profile+Views&color=bf66f2&style=for-the-badge" />
