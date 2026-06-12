@@ -1,61 +1,89 @@
+```md
 <p align="center">
-<img width="1584" height="396" alt="Maria Rangwala Banner" src="https://github.com/user-attachments/assets/48e07f66-ee4a-4fe1-8072-a9c89d6b3009" />
+<img width="1584" height="396" alt="Mudit Thakre Banner" src="https://github.com/user-attachments/assets/48e07f66-ee4a-4fe1-8072-a9c89d6b3009" />
 </p>
-<img src="https://komarev.com/ghpvc/?username=maria-rangwala&label=Profile+Views&color=bf66f2&style=for-the-badge" />
-I am a dedicated and disciplined computer science student aiming to apply my programming knowledge and creativity to solve real-world challenges and drive impactful results in the tech industry.
+
+<img src="https://komarev.com/ghpvc/?username=mudit0204&label=Profile+Views&color=bf66f2&style=for-the-badge" />
+
+I am a final-year Computer Science student passionate about Artificial Intelligence, Generative AI, Full-Stack Development, and Data Analytics. I enjoy building impactful products that solve real-world problems using modern technologies, intelligent systems, and scalable software solutions.
 
 ## 💻Tech Stack
-```Programming Languages```
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js&theme=dark)](https://skills.thijs.gg)
+### Programming Languages
 
-```Front-End Technologies```
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,js&theme=dark)](https://skills.thijs.gg)
+
+### Front-End Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css&theme=dark)](https://skills.thijs.gg)
 
-```Back-End Technologies```
+### Back-End Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skills.thijs.gg)
 
-```Databases```
+### Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skills.thijs.gg)
 
-```Tools & Platforms```
+### AI / ML & Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,git,github,postman,aws,figma,eclipse,wordpress&theme=dark)](https://skills.thijs.gg)
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
+### Automation & DevOps
 
-## 👨🏽‍💻Leetcode Stats:
-[<img width="500em" src="https://leetcard.jacoblin.cool/maria_rangwala?theme=dark&font=Josefin%20Slab&ext=heatmap"/>](https://leetcard.jacoblin.cool/maria_rangwala?theme=dark&font=Josefin%20Slab&ext=heatmap)
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-## 📊 GitHub Stats:
+### Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,aws,figma&theme=dark)](https://skills.thijs.gg)
+
+## 👨🏽‍💻 LeetCode Stats
+
+[<img width="500em" src="https://leetcard.jacoblin.cool/mudit02?theme=dark&font=Josefin%20Slab&ext=heatmap"/>](https://leetcode.com/u/mudit02/)
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=maria-rangwala&theme=tokyonight&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mudit0204&theme=tokyonight&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+
+![snake gif](https://github.com/mudit0204/mudit0204/blob/output/github-snake-dark.svg)
+
 </div>
 
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=mudit0204&icon=10&color=6)](https://visitcount.itsvg.in)
+
 </div>
 
+## 🌐 Let's get Connected
 
-
-##  🌐Let's get Connected
 <div align="left">
-  <a href="https://in.linkedin.com/in/mariaarangwala" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%25230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=white"/>
-  </a>
-  <a href="mailto:maria.rangwala.16@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/mudit-thakre/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%25230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=white"/>
+</a>
+
+<a href="https://github.com/mudit0204" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/mudit02/" target="_blank">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </div>
 
 <div align="center">
-  <h2>Thankyou for your precious time!</h2>
+  <h2>Thank you for your precious time! 🚀</h2>
 </div>
+```
