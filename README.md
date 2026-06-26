@@ -1,8 +1,8 @@
 <p align="center">
-<img width="1584" height="396" alt="Mudit Thakre Banner" src="YOUR_IMAGE_LINK_HERE" />
+<img width="1584" height="396" alt="Mudit Thakre Banner" src="https://github.com/mudit0204/mudit0204/blob/main/Mudit%20Thakre%20Banner.jpg" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mudit0204&label=Profile+Views&color=bf66f2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mudit0204&label=Profile+Views&color=0077b6&style=for-the-badge" />
 
 I am a final-year Computer Science student passionate about Artificial Intelligence, Generative AI, Full-Stack Development, and Data Analytics. I enjoy building impactful products that solve real-world problems using modern technologies, intelligent systems, and scalable software solutions.
 
@@ -22,7 +22,7 @@ I am a final-year Computer Science student passionate about Artificial Intellige
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)](https://skills.thijs.gg)
 
 ### AI / ML & Data Science
 
@@ -85,4 +85,3 @@ I am a final-year Computer Science student passionate about Artificial Intellige
 <div align="center">
   <h2>Thank you for your precious time! 🚀</h2>
 </div>
-```
